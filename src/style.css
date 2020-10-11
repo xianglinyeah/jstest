@@ -1,0 +1,26 @@
+
+
+.container{
+    display:flex;
+    min-width:1000px;
+
+}
+.left{
+    min-width:180px;
+    height:calc(100vh);
+}
+
+.right{
+
+    flex:1;
+    height:calc(100vh);
+
+}
+.content{
+    border:1px solid red;
+    height:calc(81vh);
+    overflow:auto;
+
+}
+
+

@@ -1,0 +1,16 @@
+.title:after{
+
+    content:"";
+    position:absolute;
+    top:36px;
+    right:-5px;
+    width:0px;
+    height:0px;
+    border-width:18px 18px 0;
+    border-style:solid;
+    border-color:white transparent transparent transparent;
+
+
+
+
+}
